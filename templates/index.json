@@ -64,6 +64,76 @@
         "button_text_hover_color": "#ffffff"
       }
     },
+    "multicolumn_gtap7w": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jFBCRb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cypress_Aqua_Product.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cypress | Aqua",
+            "link": "shopify:\/\/products\/cypress-aqua"
+          }
+        },
+        "column_FzLFK9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cypress_Black_Product.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cypress | Black",
+            "link": "shopify:\/\/products\/cypress-black"
+          }
+        },
+        "column_WwjCjb": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AgqEwX": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jFBCRb",
+        "column_FzLFK9",
+        "column_WwjCjb",
+        "column_AgqEwX"
+      ],
+      "custom_css": [],
+      "settings": {
+        "layout": "grid",
+        "addclass": "block",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "bg_color": "",
+        "text_color": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_nhq9rf": {
       "type": "featured-collection",
       "settings": {
@@ -95,6 +165,7 @@
   },
   "order": [
     "165665788459900955",
+    "multicolumn_gtap7w",
     "featured_collection_nhq9rf"
   ]
 }
