@@ -459,10 +459,10 @@
         "type": "header_2",
         "settings": {
           "color_scheme": "background-1",
+          "icon_color": "#044b61",
           "bg_color": "",
           "text_color": "",
           "text_hover_color": "",
-          "logo": "shopify:\/\/shop_images\/logo.png",
           "transparent_header": false,
           "content_color": "",
           "logo_width": 170,
