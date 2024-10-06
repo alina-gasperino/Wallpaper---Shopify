@@ -10,7 +10,6 @@
     },
     "1657013208f5256b2f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1657013208cec405c2-0": {
           "type": "heading",
@@ -39,9 +38,9 @@
         "1657013208cec405c2-1",
         "1657013208cec405c2-2"
       ],
+      "disabled": true,
       "settings": {
         "addclass": "one",
-        "image": "shopify:\/\/shop_images\/collection-banner.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -66,7 +65,7 @@
         "enable_quick_add": true,
         "add_cart_show": true,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "horizontal",
         "enable_sorting": true,
         "url": "",
         "columns_mobile": "2",
