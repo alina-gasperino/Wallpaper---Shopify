@@ -3,15 +3,37 @@
     "165665788459900955": {
       "type": "slideshow",
       "blocks": {
+        "slide_qtpkpB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Leafy_Greens_Hero.png",
+            "caption": "",
+            "heading": "Protea",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/protea",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "transparent",
+            "bg_color": "#F5FDFF",
+            "text_color": "#000",
+            "text_alignment_mobile": "center-top"
+          }
+        },
         "16566578847d496ece-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Juniper_Amber_Hero.png",
             "caption": "",
-            "heading": "Custom Color Wallpaper",
+            "heading": "Juniper",
             "heading_size": "h0",
             "subheading": "Millions of color Combinations Customize instantly Online",
             "button_label": "SHOP NOW",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify:\/\/collections\/juniper",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
@@ -26,12 +48,13 @@
         "75c4b482-6d8d-48f8-99de-4b1fa5d27e8c": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sea_Wrack_Helios_Hero.png",
             "caption": "",
-            "heading": "CUSTOM WALLPAPER",
+            "heading": "Sea Wrack",
             "heading_size": "h0",
             "subheading": "Millions of color Combinations Customize instantly Online",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify:\/\/collections\/sea-wrack",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
@@ -45,16 +68,17 @@
         }
       },
       "block_order": [
+        "slide_qtpkpB",
         "16566578847d496ece-0",
         "75c4b482-6d8d-48f8-99de-4b1fa5d27e8c"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 3,
-        "hide_content_desktop_view": true,
+        "hide_content_desktop_view": false,
         "hide_content_mobile_view": true,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand",
@@ -90,19 +114,261 @@
         "column_WwjCjb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Cypress_Coral_Product.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cypress | Coral",
+            "link": "shopify:\/\/products\/cypress-coral"
           }
         },
         "column_AgqEwX": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Cypress_Sage_Product.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cypress | Sage",
+            "link": "shopify:\/\/products\/cypress-sage"
+          }
+        },
+        "column_HL4Mmc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sea_Wrack_Helios_Product_Image_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sea Wrack | Helios",
+            "link": "shopify:\/\/products\/sea-wrack-helios"
+          }
+        },
+        "column_Rd8Jtr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sea_Wrack_Inlet_Product_Image_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sea Wrack | Inlet",
+            "link": "shopify:\/\/products\/sea-wrack-inlet"
+          }
+        },
+        "column_eRDPJb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sea_Wrack_Midsummer_Product_Image_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sea Wrack | Midsummer",
+            "link": "shopify:\/\/products\/sea-wrack-midsummer"
+          }
+        },
+        "column_maNhqH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sea_Wrack_Noon_Haze_Product_Image_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sea Wrack | Noon Haze",
+            "link": "shopify:\/\/products\/sea-wrack-noon-haze"
+          }
+        },
+        "column_eFmDgm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Juniper_Amber_Product_Image_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Juniper | Amber",
+            "link": "shopify:\/\/products\/juniper-amber"
+          }
+        },
+        "column_yfbaNb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gourd_Leaf_Mourning_Dove_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Gourd Leaf | Mourning Dove",
+            "link": "shopify:\/\/products\/gourd-leaf-mourning-dove"
+          }
+        },
+        "column_dKxh3H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gourd_Leaf_Odisha_Blue_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Gourd Leaf | Odisha Blue",
+            "link": "shopify:\/\/products\/gourd-leaf-odisha-blue"
+          }
+        },
+        "column_YtidNA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gourd_Leaf_Pink_Parakeet_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Gourd Leaf | Pink Parakeet",
+            "link": "shopify:\/\/products\/gourd-leaf-pink-parakeet"
+          }
+        },
+        "column_Ukb9th": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flowering_Kiwi_Blue_Jay_Way_Product_images_Pattern_main_image_2048.png",
+            "title": "",
+            "text": "",
+            "link_label": "Flowering Kiwi | Blue Jay Way",
+            "link": "shopify:\/\/products\/flowering-kiwi-blue-jay-way"
+          }
+        },
+        "column_wq8xGd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flowering_Kiwi_Blues_at_Sunrise_Product_image_Pattern_main_page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Flowering Kiwi | Blues at Sunrise",
+            "link": "shopify:\/\/products\/flowering-kiwi-blues-at-sunrise"
+          }
+        },
+        "column_EjpLQ6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Leafy_Greens_Product_images_Pattern_main_page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Protea | Leafy Greens",
+            "link": "shopify:\/\/products\/protea-leafy-greens"
+          }
+        },
+        "column_7HVDFA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Mint_Roller_Product_image_Pattern_main_page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Protea | Mint Roller",
+            "link": "shopify:\/\/products\/protea-mint-roller"
+          }
+        },
+        "column_UjNGad": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Petal_Pusher_Product_image_Pattern_main_page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Protea | Petal Pusher",
+            "link": "shopify:\/\/products\/protea-petal-pusher"
+          }
+        },
+        "column_pdgL8X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Red_Mango_Product_Images_Pattern_Main_Page_2048_Resized.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Protea | Red Mango",
+            "link": "shopify:\/\/products\/protea-red-mango"
+          }
+        },
+        "column_DCtLYm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Protea_Teal_Wheels_Product_image_Pattern_main_page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Protea | Teal Wheels",
+            "link": "shopify:\/\/products\/protea-teal-wheels"
+          }
+        },
+        "column_JT4TcU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dianthus_Fireworks_Product_Images_Patterns_Main_Page_2048.png",
+            "title": "",
+            "text": "",
+            "link_label": "Dianthus | Fireworks",
+            "link": "shopify:\/\/products\/dianthus-fireworks"
+          }
+        },
+        "column_LYYyq9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dianthus_Morning_Fog_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Dianthus | Morning Fog",
+            "link": "shopify:\/\/products\/dianthus-morning-fog"
+          }
+        },
+        "column_7mtXX4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dianthus_Palm_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Dianthus | Palm",
+            "link": "shopify:\/\/products\/dianthus-palm"
+          }
+        },
+        "column_K4EJiW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dianthus_White_Night_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Dianthus | White Night",
+            "link": "shopify:\/\/products\/dianthus-white-night"
+          }
+        },
+        "column_KaLXkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sedum__Copper_Mine_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sedum | Copper Mine",
+            "link": "shopify:\/\/products\/sedum-copper-mine"
+          }
+        },
+        "column_e8dLRC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sedum_Gold_and_Rubies_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sedum | Gold and Rubies",
+            "link": "shopify:\/\/products\/sedum-gold-and-rubies"
+          }
+        },
+        "column_K4MF8C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sedum_Topaz_Product_Images_Pattern_Main_Page_2048px.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sedum | Topaz",
+            "link": "shopify:\/\/products\/sedum-topaz"
+          }
+        },
+        "column_gywAAz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gourds_Ratatouille_Product_image_Pattern_Main_Page.png",
+            "title": "",
+            "text": "",
+            "link_label": "Gourds | Ratatouille",
+            "link": "shopify:\/\/products\/gourds-ratatouille"
+          }
+        },
+        "column_kwpEq6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vineyard_Muscat_Product_Images_Pattern_Main_Pages_2048px_Optimized.png",
+            "title": "",
+            "text": "",
+            "link_label": "Vineyard | Muscat",
+            "link": "shopify:\/\/products\/vineyard-muscat"
           }
         }
       },
@@ -110,7 +376,31 @@
         "column_jFBCRb",
         "column_FzLFK9",
         "column_WwjCjb",
-        "column_AgqEwX"
+        "column_AgqEwX",
+        "column_HL4Mmc",
+        "column_Rd8Jtr",
+        "column_eRDPJb",
+        "column_maNhqH",
+        "column_eFmDgm",
+        "column_yfbaNb",
+        "column_dKxh3H",
+        "column_YtidNA",
+        "column_Ukb9th",
+        "column_wq8xGd",
+        "column_EjpLQ6",
+        "column_7HVDFA",
+        "column_UjNGad",
+        "column_pdgL8X",
+        "column_DCtLYm",
+        "column_JT4TcU",
+        "column_LYYyq9",
+        "column_7mtXX4",
+        "column_K4EJiW",
+        "column_KaLXkJ",
+        "column_e8dLRC",
+        "column_K4MF8C",
+        "column_gywAAz",
+        "column_kwpEq6"
       ],
       "custom_css": [],
       "settings": {
@@ -122,7 +412,7 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -133,39 +423,10 @@
         "padding_top": 50,
         "padding_bottom": 0
       }
-    },
-    "featured_collection_nhq9rf": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "add_cart_show": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "165665788459900955",
-    "multicolumn_gtap7w",
-    "featured_collection_nhq9rf"
+    "multicolumn_gtap7w"
   ]
 }
