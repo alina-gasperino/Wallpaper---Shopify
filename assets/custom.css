@@ -1,0 +1,10 @@
+.block.multicolumn .multicolumn-card {
+    flex-direction: column;
+}
+.block.multicolumn .multicolumn-card__image-wrapper--full-width {
+    width: 100%;
+}
+.multicolumn-card__image {
+    width: 100%;
+    height: 100%;
+}
