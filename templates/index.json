@@ -19,8 +19,8 @@
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "transparent",
-            "bg_color": "#F5FDFF",
-            "text_color": "#000",
+            "bg_color": "#f5fdff",
+            "text_color": "#000000",
             "text_alignment_mobile": "center-top"
           }
         },
@@ -74,10 +74,10 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 3,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "hide_content_desktop_view": false,
         "hide_content_mobile_view": true,
         "show_text_below": true,
