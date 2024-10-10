@@ -10,7 +10,7 @@
             "caption": "",
             "heading": "Protea",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/protea",
             "button_style_secondary": false,
@@ -30,8 +30,8 @@
             "image": "shopify:\/\/shop_images\/Juniper_Amber_Hero.png",
             "caption": "",
             "heading": "Juniper",
-            "heading_size": "h0",
-            "subheading": "Millions of color Combinations Customize instantly Online",
+            "heading_size": "h1",
+            "subheading": "",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/juniper",
             "button_style_secondary": false,
@@ -51,8 +51,8 @@
             "image": "shopify:\/\/shop_images\/Sea_Wrack_Helios_Hero.png",
             "caption": "",
             "heading": "Sea Wrack",
-            "heading_size": "h0",
-            "subheading": "Millions of color Combinations Customize instantly Online",
+            "heading_size": "h1",
+            "subheading": "",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/sea-wrack",
             "button_style_secondary": false,
@@ -86,6 +86,36 @@
         "button_text_color": "#ffffff",
         "button_bkg_hover_color": "#000000",
         "button_text_hover_color": "#ffffff"
+      }
+    },
+    "rich_text_7tM8YF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kkkWPg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About our brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_GFPcd8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kkkWPg",
+        "text_GFPcd8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_gtap7w": {
@@ -420,13 +450,14 @@
         "text_color": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 50,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     }
   },
   "order": [
     "165665788459900955",
+    "rich_text_7tM8YF",
     "multicolumn_gtap7w"
   ]
 }

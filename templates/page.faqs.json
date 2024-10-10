@@ -13,55 +13,55 @@
         "1656659322a8bbb0e0-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I install your wallpaper in the bathroom? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our wallpapers can absolutely be used in a bathroom but some ventilation in the space (a window or vent) is preferred, and it would be a good idea to talk to your wallpaper installer about double-pasting the corners for extra insurance against humidity. <\/p>",
             "page": ""
           }
         },
-        "1656659322a8bbb0e0-1": {
+        "collapsible_row_NMFVjx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I install your wallpaper in the bathroom? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our wallpapers can absolutely be used in a bathroom but some ventilation in the space (a window or vent) is preferred, and it would be a good idea to talk to your wallpaper installer about double-pasting the corners for extra insurance against humidity. <\/p>",
             "page": ""
           }
         },
-        "1656659322a8bbb0e0-2": {
+        "collapsible_row_XdXqce": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I install your wallpaper in the bathroom? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our wallpapers can absolutely be used in a bathroom but some ventilation in the space (a window or vent) is preferred, and it would be a good idea to talk to your wallpaper installer about double-pasting the corners for extra insurance against humidity. <\/p>",
             "page": ""
           }
         },
-        "1656659322a8bbb0e0-3": {
+        "collapsible_row_XbTTwL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I install your wallpaper in the bathroom? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our wallpapers can absolutely be used in a bathroom but some ventilation in the space (a window or vent) is preferred, and it would be a good idea to talk to your wallpaper installer about double-pasting the corners for extra insurance against humidity. <\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "1656659322a8bbb0e0-0",
-        "1656659322a8bbb0e0-1",
-        "1656659322a8bbb0e0-2",
-        "1656659322a8bbb0e0-3"
+        "collapsible_row_NMFVjx",
+        "collapsible_row_XdXqce",
+        "collapsible_row_XbTTwL"
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,

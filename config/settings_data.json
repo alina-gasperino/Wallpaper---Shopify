@@ -91,10 +91,10 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "#",
-    "social_facebook_link": "#",
-    "social_pinterest_link": "#",
-    "social_instagram_link": "#",
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100072134194828",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/mostofallart\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -286,22 +286,16 @@
           "c9f98f9d-66be-4718-9138-f64c3483599e": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/moaa.png",
               "image_width": 200,
               "alignment": ""
-            }
-          },
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Categories",
-              "menu": ""
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick Links",
-              "menu": ""
+              "heading": "Policies",
+              "menu": "policies"
             }
           },
           "f62df46b-3efd-469c-9b5b-5f99733c8788": {
@@ -315,7 +309,6 @@
         },
         "block_order": [
           "c9f98f9d-66be-4718-9138-f64c3483599e",
-          "footer-0",
           "footer-1",
           "f62df46b-3efd-469c-9b5b-5f99733c8788"
         ],
