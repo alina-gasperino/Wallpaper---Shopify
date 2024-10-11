@@ -3064,7 +3064,7 @@ header-menu>details {
     font-weight: 400;
 /*     font-size: 40px; */
     line-height: 40px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #000000;
     text-align: center;
     margin: 0 0 1rem;

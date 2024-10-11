@@ -8,3 +8,12 @@
     width: 100%;
     height: 100%;
 }
+.multicolumn-card__info {
+    width: 100% !important;
+}
+.background-none .multicolumn-card__info {
+    padding: 2rem 0 0 !important;
+}
+.multicolumn-card {
+    text-align: left;
+}
