@@ -294,7 +294,7 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Policies",
+              "heading": "",
               "menu": "policies"
             }
           },
