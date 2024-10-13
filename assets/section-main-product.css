@@ -305,7 +305,7 @@ fieldset.product-form__input .form__label {
   font-size: 1.4rem;
   letter-spacing: 0;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
   background-color: var(--color-base-button-background-hover);
   color: var(--color-base-button-text-hover);
   background-color: var(--gradient-base-accent-1);
@@ -334,7 +334,7 @@ a.product__text {
 }
 
 .product__text.caption-with-letter-spacing {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .product__title {
@@ -1292,7 +1292,7 @@ span.color-name {
     font-weight: 600;
     font-size: 15px;
     color: #3d4945;
-    text-transform: uppercase;
+    text-transform: capitalize;
     padding: 0 5px 0 5px;
     vertical-align: text-top;
     display: inline-block;

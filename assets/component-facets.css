@@ -1269,7 +1269,7 @@ input.mobile-facets__checkbox {
     text-decoration: none;
     border: 1px solid #222;
     padding: 10px 20px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-weight: 700;
     transition: all .4s ease-in-out 0s;
     -webkit-transition: all .4s ease-in-out 0s;

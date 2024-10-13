@@ -27,3 +27,6 @@
 .card__inner .hover_button {
     display: none;
 }
+.product_tile_color_holder {
+    display: none;
+}

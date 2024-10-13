@@ -28,7 +28,7 @@
     color: rgb(var(--color-base-text));
     list-style: none;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: capitalize;
     border: 1px solid transparent;
     border-radius: 5px 5px 0 0;
 }

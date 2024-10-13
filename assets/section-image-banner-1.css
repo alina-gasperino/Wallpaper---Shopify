@@ -423,7 +423,7 @@
 .banner__heading {
   margin-bottom: 0;
   font-weight: 400;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .banner__heading.h1{
    font-size: 40px;
@@ -495,7 +495,7 @@
     line-height: 60px;
 }
 .banner-block .two.banner .banner__box.content-container .banner__heading {
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #3d4945;
 }
 .banner-block .two.banner .banner__box {

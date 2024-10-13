@@ -377,7 +377,7 @@
     font-weight: 500;
     font-size: 14px;
     text-decoration-line: underline;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: var(--gradient-base-accent-1);
 }
 .card-information>*:not(.visually-hidden:first-child)+*:not(.rating).card__heading {

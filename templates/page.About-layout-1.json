@@ -14,7 +14,7 @@
         "165727710090668fa9-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Our Story",
             "heading_size": "h1"
           }
         }
@@ -24,7 +24,6 @@
       ],
       "settings": {
         "addclass": "two",
-        "image": "shopify:\/\/shop_images\/Speedo_Wallpaper_Dawn_Theme_Collection_Image.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -71,7 +70,6 @@
       ],
       "settings": {
         "addclass": "two",
-        "image": "shopify:\/\/shop_images\/2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -90,7 +88,6 @@
         "1657263728b9a818eb-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_523.png",
             "title": "OUR Vision",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
@@ -100,7 +97,6 @@
         "1657263728b9a818eb-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_524.png",
             "title": "OUR MISSION",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
@@ -110,7 +106,6 @@
         "1657263728b9a818eb-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_525.png",
             "title": "OUR VALUES",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
@@ -176,7 +171,6 @@
       ],
       "settings": {
         "addclass": "three",
-        "image": "shopify:\/\/shop_images\/8.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -221,7 +215,6 @@
       ],
       "settings": {
         "addclass": "two",
-        "image": "shopify:\/\/shop_images\/11.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -266,7 +259,6 @@
       ],
       "settings": {
         "addclass": "three",
-        "image": "shopify:\/\/shop_images\/13.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -311,7 +303,6 @@
       ],
       "settings": {
         "addclass": "two",
-        "image": "shopify:\/\/shop_images\/16.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",

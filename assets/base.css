@@ -510,7 +510,7 @@ blockquote {
   font-size: 1rem;
   letter-spacing: 0.13rem;
   line-height: calc(1 + 0.2 / var(--font-body-scale));
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .caption-with-letter-spacing--medium {
@@ -1411,7 +1411,7 @@ button.shopify-payment-button__button--unbranded {
   line-height: calc(1 + .2 / var(--font-body-scale));
   font-weight: 600;
   padding: 0px 3.65rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   transition: all .4s ease;
   -webkit-transition: all .4s ease;
   -moz-transition: all .4s ease;
@@ -2690,7 +2690,7 @@ details[open] > .header__submenu {
   font-weight: 400;
   font-size: 15px;
   line-height: 22px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: rgb(var(--color-foreground));
 }
 .header__menu-item:hover {

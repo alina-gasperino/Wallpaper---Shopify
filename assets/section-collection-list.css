@@ -104,7 +104,7 @@
     margin: 0;
 }
 .collection-list-title.title {
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     margin: 40px 0 20px;
     font-size: 30px;

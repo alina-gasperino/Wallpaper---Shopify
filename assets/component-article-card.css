@@ -150,7 +150,7 @@
     font-weight: 500;
     font-size: 14px;
     text-decoration-line: underline;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: var(--gradient-base-accent-1);
 }
 .blog__posts .article-card .card__information .read-more:hover {

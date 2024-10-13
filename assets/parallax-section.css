@@ -11,7 +11,7 @@
     font-weight: 400;
     font-size: 40px;
     line-height: 45px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin-bottom: 2rem;
     margin-top: 0;
 }
