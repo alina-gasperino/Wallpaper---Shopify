@@ -186,7 +186,7 @@ fieldset.product-form__input .form__label {
   margin-bottom: 0.2rem;
   font-weight: 600;
   font-size: 15px;
-  color: #2B2A28;
+  color: #3d4945;
 }
 
 .product-form__input input[type='radio'] {
@@ -350,7 +350,7 @@ a.product__text {
   font-size: 20px;
   line-height: 30px;
   text-transform: capitalize;
-  color: #2B2A28;
+  color: #3d4945;
 }
 
 .product__title > a {
@@ -1291,7 +1291,7 @@ a.product__text {
 span.color-name {
     font-weight: 600;
     font-size: 15px;
-    color: #2b2a28;
+    color: #3d4945;
     text-transform: uppercase;
     padding: 0 5px 0 5px;
     vertical-align: text-top;
@@ -1358,7 +1358,7 @@ span.color-name {
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
-    color: #2B2A28;
+    color: #3d4945;
     margin: 0 0 0 10px;
    letter-spacing: normal;
 }
@@ -1377,7 +1377,7 @@ span.color-name {
     border: 0;
 }
 .product-form__input.size-info input[type=radio]:checked+label {
-    color: #2B2A28;
+    color: #3d4945;
     font-weight: 600;
     background: none;
     text-decoration: underline;

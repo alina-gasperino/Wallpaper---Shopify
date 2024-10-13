@@ -691,7 +691,7 @@ a.active-facets__button.focused .active-facets__button-inner,
   margin: 0;
   font-weight: 700;
   font-size: 20px;
-  color: #2B2A28;
+  color: #3d4945;
 }
 
 .mobile-facets__count {
@@ -785,7 +785,7 @@ details.menu-opening .mobile-facets__close svg {
   padding: 1.2rem 2.6rem;
   text-decoration: none;
   width: calc(100% - 5.2rem);
-  color: #2b2a28;
+  color: #3d4945;
 }
 
 .no-js .mobile-facets__close-button {
@@ -841,7 +841,7 @@ details.menu-opening .mobile-facets__close svg {
   font-size: 16px;
   line-height: 26px;
   margin: 0 30px;
-  color: #2b2a28;
+  color: #3d4945;
   border-bottom: 1px solid #E7E7E7;
 }
 
@@ -909,7 +909,7 @@ input.mobile-facets__checkbox {
   transition: background-color 0.2s ease;
   word-break: break-word;
   display: flex;
-  color: #2b2a28;
+  color: #3d4945;
   align-items: center;
 }
 
