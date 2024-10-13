@@ -2021,7 +2021,6 @@ input[type='checkbox'] {
   flex-grow: 1;
   -webkit-appearance: none;
   appearance: none;
-  color: #000;
 }
 
 .quantity__button {
@@ -2694,9 +2693,6 @@ details[open] > .header__submenu {
   text-transform: uppercase;
   color: rgb(var(--color-foreground));
 }
-.color-transparent .header__menu-item {
-    color: #000;
-}
 .header__menu-item:hover {
     color: rgb(var(--color-foreground));
 }
@@ -3062,10 +3058,8 @@ header-menu>details {
 }
 .main-title {
     font-weight: 400;
-/*     font-size: 40px; */
     line-height: 40px;
     text-transform: capitalize;
-    color: #000000;
     text-align: center;
     margin: 0 0 1rem;
 }

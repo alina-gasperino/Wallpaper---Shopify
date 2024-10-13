@@ -154,7 +154,6 @@
   margin-bottom: 0;
   font-weight: 400;
   font-size: 16px;
-  color: #000;
   letter-spacing:0;
   text-transform: capitalize;
   overflow: hidden;
@@ -302,7 +301,6 @@
 }
 
 .card-information > .price {
-  color: #000;
   font-weight: 600;
   font-size: 16px;
 }
@@ -374,7 +372,6 @@
 .hover_button .button.button-wishlist svg {
     width: 16px;
     height: 16px;
-    fill: #000;
 }
 .hover_button .button.button-wishlist:hover svg,.add-to-cart .quick-add__submit:hover .icon-cart {
     fill: #fff;
@@ -397,7 +394,6 @@
     margin-top: 0.6rem;
 }
 .add-to-cart .quick-add__submit .icon-cart {
-    fill: #000;
     width: 16px;
     height: 16px;
 }

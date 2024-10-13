@@ -503,9 +503,6 @@ cart-drawer:not(.not-empty) .cart-drawer__collection {
     align-items: center;
     top: 4px;
 }
-.drawer__footer>details+.cart-drawer__footer .totals > h2 {
-    color: #000;
-}
 
 @media only screen and (max-width: 749px){
     .cart-drawer__collection .slider-buttons {

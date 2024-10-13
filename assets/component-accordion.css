@@ -81,7 +81,6 @@
 .product__accordion .accordion__content .tab-description .tab-info .title {
     font-weight: 600;
     font-size: 14px;
-    color: #000000;
     min-width: 70px;
     display: inline-block;
     margin: 0;
@@ -106,7 +105,6 @@
     left: 50%;
     -webkit-transform: translate(-50%,-50%) rotate(-90deg);
     transform: translate(-50%,-50%) rotate(-90deg);
-    background-color: #000;
 }
 .accordion .coll-tab .plus_minus:before {
     width: 12px;

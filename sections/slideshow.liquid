@@ -111,6 +111,12 @@
     </noscript>
   {%- endif -%}
 
+  {% if section.blocks.size > 1 %}
+    <div class="arrows_wrapper">
+      <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="{{ 'general.slider.previous_slide' | t }}" style="color: #fff">{% render 'icon-caret' %}</button>
+      <button type="button" class="slider-button slider-button--next" name="next" aria-label="{{ 'general.slider.next_slide' | t }}" style="color: #fff">{% render 'icon-caret' %}</button>
+    </div>
+  {% endif %}
   <div class="slideshow banner banner--{{ section.settings.slide_height }} grid grid--1-col slider slider--everywhere{% if section.settings.show_text_below %} banner--mobile-bottom{% endif %}{% if section.blocks.first.settings.image == blank %} slideshow--placeholder{% endif %}"
     id="Slider-{{ section.id }}"
     aria-live="polite"
@@ -118,13 +124,8 @@
     data-autoplay="{{ section.settings.auto_rotate }}"
     data-speed="{{ section.settings.change_slides_speed }}"
   >
-    {%- for block in section.blocks -%}
-      <style>
-        #Slide-{{ section.id }}-{{ forloop.index }} .banner__media::after {
-          opacity: {{ block.settings.image_overlay_opacity | divided_by: 100.0 }};
-        }
-      </style>
-      <div class="slideshow__slide grid__item grid--1-col slider__slide"
+    {%- for block in section.blocks -%}              
+      <div class="slideshow__slide grid__item grid--1-col slider__slide {{block.settings.color_scheme}}"
         id="Slide-{{ section.id }}-{{ forloop.index }}"
         {{ block.shopify_attributes }}
         role="group"
@@ -132,6 +133,19 @@
         aria-label="{{ forloop.index }} {{ 'general.slider.of' | t }} {{ forloop.length }}"
         tabindex="-1"
       >
+      <style>
+        #Slide-{{ section.id }}-{{ forloop.index }} .banner__media::after {
+          opacity: {{ block.settings.image_overlay_opacity | divided_by: 100.0 }};
+        }
+        {% if block.settings.color_scheme == 'custom-color' %} 
+          #Slide-{{ section.id }}-{{ forloop.index }} .slideshow__text .banner__heading { 
+            color: {{ block.settings.text_color }};
+          }
+          #Slide-{{ section.id }}-{{ forloop.index }} .gradient {
+            background: transparent;
+          }
+        {% endif %}
+      </style>
       {% if block.settings.link != blank %}
        <a href="{{ block.settings.link}}">
       {% endif %}
@@ -225,13 +239,6 @@
           </div>
         </div>
       </div>
-      
-        {% if block.settings.color_scheme == 'custom-color' %} 
-        {%- style -%}
-          #Slider-{{ section.id }} .color-custom-color { background: {{ block.settings.bg_color }};}
-          #Slider-{{ section.id }} .slideshow__text .banner__heading, .slideshow .banner__box>.banner__text , .slideshow .banner__box>.caption{ color: {{ block.settings.text_color }};}
-        {%- endstyle -%}
-        {% endif %}
     
     {%- endfor -%}
   </div>
