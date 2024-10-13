@@ -287,10 +287,6 @@
   overflow: hidden;
 }
 
-.card-information > * + * {
-  margin-top: 0.5rem;
-}
-
 .card-information {
   width: 100%;
 }
@@ -307,12 +303,6 @@
 
 .card-information > .rating {
   margin-top: 0.4rem;
-}
-
-.card-information
-  > *:not(.visually-hidden:first-child)
-  + *:not(.rating) {
-  margin-top: 1rem;
 }
 
 .card-information .caption {
