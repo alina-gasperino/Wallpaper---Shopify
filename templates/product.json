@@ -11,47 +11,10 @@
           "type": "price",
           "settings": {}
         },
-        "7cc0f81f-2fd2-4016-b504-ce0415f793bb": {
-          "type": "viewer_count",
-          "settings": {
-            "viewer": true
-          }
-        },
-        "63e6a724-c5b2-4a91-bf51-6f078c1e32f5": {
-          "type": "stockbar",
-          "settings": {
-            "stockbar_box": true
-          }
-        },
-        "3b2f888e-f018-454c-8a27-ef5f9d9e1eda": {
-          "type": "delivery",
-          "settings": {
-            "delivery_box": true,
-            "delivery_eta_min_days": "3",
-            "delivery_eta_max_days": "5"
-          }
-        },
-        "60b65e78-7622-4afe-8ff6-da5a9ec14963": {
-          "type": "timer",
-          "settings": {
-            "timer_box": true,
-            "time": "05,10,2024"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
-          }
-        },
-        "b2c5c62f-437f-44db-ab60-68a103d68dbe": {
-          "type": "wishlist_compare",
-          "settings": {}
-        },
-        "6e756461-893f-4d8a-8576-a029e1ee37ba": {
-          "type": "popup",
-          "settings": {
-            "page": "size-guide"
           }
         },
         "quantity_selector": {
@@ -68,31 +31,11 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
+        "text_tTPk3q": {
+          "type": "text",
           "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "Free shipping and returns available on all orders!\nWe ship all US domestic orders within <b>5-10 business days!<\/b>",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Exclusive Offers",
-            "icon": "price_tag",
-            "content": "Now enjoy the benefits of exclusive offers. Subscribe to remain updated on latest offers",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Secure Payments",
-            "icon": "lock",
-            "content": "Your Data security & privacy is our priority. Pay securely through 128 bit encrypted payment gateway. We support credit cards, net banking and debits cards.",
-            "page": ""
+            "text": "Text block",
+            "text_style": "body"
           }
         },
         "share": {
@@ -100,34 +43,17 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "0b8066b3-253d-4483-8c92-a478a6b190da": {
-          "type": "icon_with_text",
-          "settings": {
-            "title1": "Money Back Guarantee",
-            "title2": "Life Time Warranty",
-            "title3": "Free Signature Gift Box"
-          }
         }
       },
       "block_order": [
         "title",
         "price",
-        "7cc0f81f-2fd2-4016-b504-ce0415f793bb",
-        "63e6a724-c5b2-4a91-bf51-6f078c1e32f5",
-        "3b2f888e-f018-454c-8a27-ef5f9d9e1eda",
-        "60b65e78-7622-4afe-8ff6-da5a9ec14963",
         "variant_picker",
-        "b2c5c62f-437f-44db-ab60-68a103d68dbe",
-        "6e756461-893f-4d8a-8576-a029e1ee37ba",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-0",
-        "collapsible-row-2",
-        "collapsible-row-1",
-        "share",
-        "0b8066b3-253d-4483-8c92-a478a6b190da"
+        "text_tTPk3q",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,

@@ -62,7 +62,7 @@
             "image_overlay_opacity": 0,
             "color_scheme": "custom-color",
             "bg_color": "rgba(0,0,0,0)",
-            "text_color": "#FFFFFF",
+            "text_color": "#ffffff",
             "text_alignment_mobile": "center-top"
           }
         }
