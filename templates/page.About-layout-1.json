@@ -88,7 +88,7 @@
         "1657263728b9a818eb-0": {
           "type": "column",
           "settings": {
-            "title": "OUR Vision",
+            "title": "Our Vision",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
             "link": ""
@@ -97,7 +97,7 @@
         "1657263728b9a818eb-1": {
           "type": "column",
           "settings": {
-            "title": "OUR MISSION",
+            "title": "Our Mission",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
             "link": ""
@@ -106,7 +106,7 @@
         "1657263728b9a818eb-2": {
           "type": "column",
           "settings": {
-            "title": "OUR VALUES",
+            "title": "Our Values",
             "text": "<p>Aliquam erat volutpat. Integer pharetra ultricies iaculis. eaeget porta augue. Suspendisse consectetur dolor non mauris malesuada, ut elementum purus semper. <\/p>",
             "link_label": "",
             "link": ""
