@@ -87,7 +87,7 @@
         "view_all_text": "shop now",
         "button_url": "",
         "view_all_style": "solid",
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "add_cart_show": true,
         "columns_mobile": "2",
         "padding_top": 48,

@@ -2,6 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#a4916d",
+    "colors_button_background_hover": "#a4916d",
     "gradient_accent_1": "",
     "colors_accent_2": "#a4916d",
     "gradient_accent_2": "",
